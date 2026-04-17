@@ -18,10 +18,10 @@ Aplikasi CRUD (Create, Read, Update, Delete) sederhana menggunakan Jetpack Compo
 ## Screenshots
 
 ### 1. Daftar Tugas (Task List)
-<img src="./Screenshot/Screenshot_20260418_041845.png" width="300" />
+![Task List](Screenshot/Screenshot_20260418_041845.png)
 
 ### 2. Form Tambah Tugas (Task Form)
-<img src="./Screenshot/Screenshot_20260418_041905.png" width="300" />
+![Task Form 1](Screenshot/Screenshot_20260418_041905.png)
 
 ### 3. Form Input Detail
-<img src="./Screenshot/Screenshot_20260418_041921.png" width="300" />
+![Task Form 2](Screenshot/Screenshot_20260418_041921.png)
