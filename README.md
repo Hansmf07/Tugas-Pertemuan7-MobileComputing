@@ -25,3 +25,6 @@ Aplikasi CRUD (Create, Read, Update, Delete) sederhana menggunakan Jetpack Compo
 
 ### 3. Form Input Detail
 ![Task Form 2](Screenshot/Screenshot_20260418_041921.png)
+
+### 4. Detail Progress & Label
+![Task Form 3](Screenshot/Screenshot_20260418_042921.png)
